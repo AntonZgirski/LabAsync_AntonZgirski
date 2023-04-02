@@ -1,0 +1,15 @@
+D:\C#\TMS\LabAsync\LabAsync\bin\Debug\net7.0\LabAsync.exe
+D:\C#\TMS\LabAsync\LabAsync\bin\Debug\net7.0\LabAsync.deps.json
+D:\C#\TMS\LabAsync\LabAsync\bin\Debug\net7.0\LabAsync.runtimeconfig.json
+D:\C#\TMS\LabAsync\LabAsync\bin\Debug\net7.0\LabAsync.dll
+D:\C#\TMS\LabAsync\LabAsync\bin\Debug\net7.0\LabAsync.pdb
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.csproj.AssemblyReference.cache
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.AssemblyInfoInputs.cache
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.AssemblyInfo.cs
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.csproj.CoreCompileInputs.cache
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.dll
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\refint\LabAsync.dll
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.pdb
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\LabAsync.genruntimeconfig.cache
+D:\C#\TMS\LabAsync\LabAsync\obj\Debug\net7.0\ref\LabAsync.dll
